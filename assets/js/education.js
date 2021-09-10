@@ -5,64 +5,34 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Programming for Everybody (Getting Started with Python)",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://coursera.org/share/59df482758c717c567733f5dde39fa1c",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
+    title: "Excel Skills for Business: Intermediate I",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://coursera.org/share/24b9b4050f5e53445b8520cd28f92a8f",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/EdX.png",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
+    title: "Python Data Structures",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    moocLink: "https://coursera.org/share/1896dcc29f9c569fa33b0fead0e351c3",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "Excel Skills for Business: Essentials",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://coursera.org/share/f33ffc2187a3b5cbcb537dae49ca41d3",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Crash Course on Python",
+    cardImage: "assets/images/education-page/coursera1.png",
+    moocLink: "https://coursera.org/share/dbda6cccc1c4ae52db28c8a9591e4dd4",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Using Python to Access Web Data",
+    cardImage: "assets/images/education-page/coursera1.png",
+    moocLink: "https://coursera.org/share/e3f5444df8b63249f922c305e2a1cc0e",
   },
 ];
 
