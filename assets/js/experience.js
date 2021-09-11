@@ -28,14 +28,14 @@ const exp = [
   },
   {
     title: "Summer Intern",
-    cardImage: "",
+    cardImage: "assets/images/csiologo.jpg",
     place: "CSIR-CSIO",
     time: "(Jun, 19 - Aug, 19)",
     desp:"<li>Involved in development of readout circuit for biosensor and thereby making its use in medical applications for cardiac arrest detection.</li>",
   },
   {
     title: "Summer Intern",
-    cardImage: "",
+    cardImage: "assets/images/csiologo.jpg",
     place: "CSIR-CSIO",
     time: "(May, 18 - Jul, 18)",
     desp:"<li>Worked on mobile application development and automation for robotic rehabilitation(Ankle Therapy Control).</li>",
