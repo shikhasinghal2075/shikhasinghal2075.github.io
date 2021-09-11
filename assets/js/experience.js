@@ -6,7 +6,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Embedded System Engineer",
+    title: "Embedded System Engineer(R&D)",
     cardImage: "",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - Present)",
