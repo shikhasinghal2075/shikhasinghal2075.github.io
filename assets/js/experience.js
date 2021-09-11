@@ -21,7 +21,7 @@ const exp = [
   },
   {
     title: "Industrial Trainee",
-    cardImage: "",
+    cardImage: "assets/images/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Jan, 20 - Jun, 20)",
     desp:"<li>Development of software using LabVIEW</li>",
