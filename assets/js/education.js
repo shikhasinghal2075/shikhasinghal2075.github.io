@@ -104,26 +104,26 @@ const showCards = () => {
 document.addEventListener("DOMContentLoaded", showCards);
 
 
-/* Badges*/
+// /* Badges*/
 
-const bagdes = document.querySelector(".badges");
-const badgesection = [
-  {
-    title: "Google Developer Essentials",
-    image: "assets/images/education-page/badge1.png",
-    description: "Earned May 20, 2020",
-  },
-  {
-    title: "VM Migration",
-    image: "assets/images/education-page/badge2.png",
-    description: "Earned June 20, 2020",
-  },
-  {
-    title: "G Suite Essentials",
-    image: "assets/images/education-page/badge3.png",
-    description: "Earned July 20, 2020",
-  },
-];
+// const bagdes = document.querySelector(".badges");
+// const badgesection = [
+//   {
+//     title: "Google Developer Essentials",
+//     image: "assets/images/education-page/badge1.png",
+//     description: "Earned May 20, 2020",
+//   },
+//   {
+//     title: "VM Migration",
+//     image: "assets/images/education-page/badge2.png",
+//     description: "Earned June 20, 2020",
+//   },
+//   {
+//     title: "G Suite Essentials",
+//     image: "assets/images/education-page/badge3.png",
+//     description: "Earned July 20, 2020",
+//   },
+// ];
 
 const showCards1 = () => {
   let output = "";
