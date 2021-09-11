@@ -7,14 +7,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Embedded System Engineer(R&D)",
-    cardImage: "",
+    cardImage: "assets/images/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - Present)",
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   },
   {
     title: "Graduate Engineer Trainee(R&D)",
-    cardImage: "",
+    cardImage: "assets/images/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Jul, 2020 - Jan, 2021)",
     desp: "<li>Development of AC EV Charging System</li>",
