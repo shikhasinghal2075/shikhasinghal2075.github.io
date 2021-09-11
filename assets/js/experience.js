@@ -7,21 +7,21 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Embedded System Engineer(R&D)",
-    cardImage: "assets/images/ewelogo.jpg",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - Present)",
     desp: "Working on CCS based EV Charger",
   },
   {
     title: "Graduate Engineer Trainee(R&D)",
-    cardImage: "assets/images/ewelogo.jpg",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Jul, 2020 - Jan, 2021)",
     desp: "Development of AC EV Charging System",
   },
   {
     title: "Industrial Trainee",
-    cardImage: "assets/images/ewelogo.jpg",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Jan, 20 - Jun, 20)",
     desp:"Development of software using LabVIEW",
